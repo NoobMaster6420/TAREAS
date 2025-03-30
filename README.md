@@ -28,7 +28,7 @@ Un plataforma educativa interactiva para aprender derivadas de cálculo a travé
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/cybercalc.git
+   git clone https://github.com/[TU-USUARIO-GITHUB]/cybercalc.git
    cd cybercalc
    ```
 
