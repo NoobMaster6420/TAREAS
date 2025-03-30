@@ -2,6 +2,8 @@
 
 Un plataforma educativa interactiva para aprender derivadas de cálculo a través de una interfaz inmersiva inspirada en la estética cyberpunk. La aplicación aprovecha tecnologías web de vanguardia para transformar el aprendizaje matemático en una experiencia visualmente dinámica y atractiva.
 
+**Proyecto subido exitosamente a GitHub:** [Ver en GitHub](https://github.com/NoobMaster6420/TAREAS)
+
 ![CyberCalc Preview](attached_assets/image_1743128025798.png)
 
 ## Tecnologías Principales
